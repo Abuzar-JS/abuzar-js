@@ -1,16 +1,32 @@
-## Hi there 👋
+👨‍💻 Abuzar — Backend Engineer | Golang Expert
+Hi! I’m Abx, a backend engineer passionate about building scalable backend systems, cloud-native services, and intelligent automation. My core stack revolves around Golang, RESTful APIs, and cloud platforms like AWS and GCP. I also explore AI agents and data-driven solutions using Python.
 
-<!--
-**Abuzar-JS/abuzar-js** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
+Languages: Go (Golang), Python, Bash, SQL
 
-Here are some ideas to get you started:
+Backend: REST APIs, Microservices, gRPC, Websockets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AI/Agents: Langchain, OpenAI APIs, automation agents
+
+Cloud & DevOps: Docker, Kubernetes, AWS (EC2, S3, Lambda), GCP
+
+Databases: PostgreSQL, Redis, MongoDB
+
+Tools: Git, GitHub Actions, Grafana, Prometheus, CI/CD pipelines
+
+🚀 What I Do
+Design and build scalable, maintainable backend services in Golang
+
+Integrate REST/gRPC APIs with frontend or third-party systems
+
+Write infrastructure-aware code for cloud-native environments
+
+Automate workflows and build AI agents using Python
+
+Secure, test, and monitor production systems at scale
+
+
+
+📫 Contact Me
+📧 mabuzar533@gmail.com
+💼 https://www.linkedin.com/in/muhammad-abuzar
