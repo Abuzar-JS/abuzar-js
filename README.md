@@ -28,4 +28,4 @@ Hi! I’m **Muhammad Abuzar**, a backend engineer passionate about building scal
 ## 📫 Contact Me
 
 - 📧 Email: mabuzar533@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-abuzar
+- 💼 LinkedIn: https://www.linkedin.com/in/mabuzar-dev
